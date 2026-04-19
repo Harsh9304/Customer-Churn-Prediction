@@ -13,6 +13,7 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb
+!src/Customer_Churn_Prediction.ipynb
 
 # Visual Studio Code
 .vscode/
